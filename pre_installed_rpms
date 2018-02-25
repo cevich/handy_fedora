@@ -1,6 +1,7 @@
 PyYAML
 curl
 dnf-plugins-core
+findutils
 gcc
 git
 libffi-devel
